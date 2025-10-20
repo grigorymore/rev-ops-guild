@@ -1,17 +1,17 @@
 # Build the Guild
 
-Привет! Эта группа про управление и построение сообществом.
+Hello! This group is about community management and building.
 
-Здесь я собираю всех кто хочет вместе со мной развивать само сообщество, а не просто быть слушателем или участником peer-групп.
+Here I gather everyone who wants to develop the community itself with me, not just be a listener or participant in peer groups.
 
-## Прямо сейчас я настраиваю базовый сетап для сообщества
+## Currently setting up the basic community setup
 
-- **Welcome сообщения** — запрос на intro, навигация по основным каналам, приглашение к развитию сообщества
-- **Сбор первой базы участников** — сохранение intros из Slack в общую базу знаний и в гугл табличку с участниками
-- **Ассистенты в проведении peer групп и активностей**
-- **Ассистенты собирающие черновики дайджестов в базу знаний**
+- **Welcome messages** — intro requests, navigation through main channels, invitation to community development
+- **Collecting the first member base** — saving intros from Slack to the shared knowledge base and Google spreadsheet with members
+- **Assistants for conducting peer groups and activities**
+- **Assistants collecting draft digests into the knowledge base**
 
-## Инфраструктура
+## Infrastructure
 
 - Git: source of truth for community OS
 - Obsidian: knowledge base viewing and editing
