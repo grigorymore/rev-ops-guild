@@ -11,14 +11,10 @@
             "id": "efc34fbacc5f4576",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 — build-guild/99 — Updates/update-0.001.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "update-0.001"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 — build-guild/99 — Updates/update-0.001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for update-0.001"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 — build-guild/99 — Updates/update-0.001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from update-0.001"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01 — build-guild/99 — Updates/update-0.001.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of update-0.001"
+              "title": "Outline"
             }
           }
         ]
@@ -164,6 +156,23 @@
   },
   "active": "efc34fbacc5f4576",
   "lastOpenFiles": [
+    "00 — Welcome/welcome.md",
+    "00 — Welcome/onboarding.md",
+    "00 — Welcome/manifesto.md",
+    "00 — Welcome",
+    "01 — build-guild/99 — Updates/update-0.001.md",
+    "01 — Build-guild/99 — Updates/update-0.001.md",
+    "01 — Build-guild/02 — Agents/README.md",
+    "01 — Build-guild/00 — Tools/slack.md",
+    "01 — Build-guild/00 — Tools/obsidian.md",
+    "01 — Build-guild/00 — Tools/linear.md",
+    "01 — Build-guild/00 — Tools/git.md",
+    "01 — Build-guild/README.md",
+    "01 — Build-guild/99 — Updates",
+    "01 — Build-guild/02 — Agents",
+    "01 — Build-guild/01 — Processes",
+    "01 — Build-guild/00 — Tools",
+    "01 — Build-guild",
     "05 — Outputs/README.md",
     "04 — Knowledge Base/README.md",
     "03 — Peer Groups/README.md",
@@ -173,27 +182,15 @@
     "03 — Peer Groups",
     "02 — Members",
     "01 — build-guild/02 — Agents/README.md",
-    "01 — build-guild/02 — Agents",
     "02 — Agents/README.md",
-    "02 — Agents",
     "01 — build-guild/README.md",
     "00 — welcome/manifesto.md",
-    "01 — build-guild/99 — Updates/update-0.001.md",
     "01 — build-guild/00 — Tools/linear.md",
-    "01 — build-guild/99 — Updates",
-    "01 — build-guild/01 — Processes",
     "01 — build-guild/00 — Tools/slack.md",
     "01 — build-guild/00 — Tools/obsidian.md",
     "01 — build-guild/00 — Tools/git.md",
-    "01 — build-guild/00 — Tools",
     "01 — build-guild/linear.md",
     "01 — build-guild/slack.md",
-    "01 — build-guild/obsidian.md",
-    "01 — build-guild/git.md",
-    "01 — build-guild",
-    "README.md",
-    "Manifesto.md",
-    "00 — welcome/onboarding.md",
-    "00 — welcome/welcome.md"
+    "01 — build-guild/obsidian.md"
   ]
 }
