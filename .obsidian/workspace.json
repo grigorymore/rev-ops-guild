@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "94362fd320dffbe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c0509c42221a1e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc34fbacc5f4576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 — welcome/manifesto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "manifesto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a77742099d866463",
+    "type": "split",
+    "children": [
+      {
+        "id": "01c0ab1f86b940f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa6072efabfb76b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a17bfb65cbb5956f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ac2fd5cd57c6754",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0f84eef3dfcc00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "17081e12a8f72824",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b39761fb2e79fded",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 — welcome/manifesto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for manifesto"
+            }
+          },
+          {
+            "id": "35812f701c616b16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 — welcome/manifesto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from manifesto"
+            }
+          },
+          {
+            "id": "ca6fbfe21d000650",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b69aaf68f75deef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 — welcome/manifesto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of manifesto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "efc34fbacc5f4576",
+  "lastOpenFiles": [
+    "Manifesto.md",
+    "00 — welcome/onboarding.md",
+    "00 — welcome/welcome.md",
+    "00 — welcome/manifesto.md",
+    "00 — welcome"
+  ]
+}
