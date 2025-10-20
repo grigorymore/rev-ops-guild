@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 — welcome/manifesto.md",
+                "file": "01 — build-guild/99 — Updates/update-0.001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manifesto"
+              "title": "update-0.001"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 — welcome/manifesto.md",
+                "file": "01 — build-guild/99 — Updates/update-0.001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for manifesto"
+              "title": "Backlinks for update-0.001"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 — welcome/manifesto.md",
+                "file": "01 — build-guild/99 — Updates/update-0.001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from manifesto"
+              "title": "Outgoing links from update-0.001"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 — welcome/manifesto.md"
+                "file": "01 — build-guild/99 — Updates/update-0.001.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of manifesto"
+              "title": "Outline of update-0.001"
             }
           }
         ]
@@ -164,6 +164,10 @@
   },
   "active": "efc34fbacc5f4576",
   "lastOpenFiles": [
+    "02 — Agents/README.md",
+    "02 — Agents",
+    "01 — build-guild/README.md",
+    "00 — welcome/manifesto.md",
     "01 — build-guild/99 — Updates/update-0.001.md",
     "01 — build-guild/00 — Tools/linear.md",
     "01 — build-guild/99 — Updates",
@@ -176,13 +180,11 @@
     "01 — build-guild/slack.md",
     "01 — build-guild/obsidian.md",
     "01 — build-guild/git.md",
-    "01 — build-guild/README.md",
     "01 — build-guild",
     "README.md",
     "Manifesto.md",
     "00 — welcome/onboarding.md",
     "00 — welcome/welcome.md",
-    "00 — welcome/manifesto.md",
     "00 — welcome"
   ]
 }

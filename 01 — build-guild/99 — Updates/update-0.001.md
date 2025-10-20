@@ -12,4 +12,4 @@ I'm assembling the operating stack for our RevOps builders' community so we can 
 - Open backlog: a transparent list of what we’re building next
 - Slack channel `#build-guild`: follow for updates and to contribute to the backlog
 
-If you want to help shape the stack or add ideas, jump into `#build-guild` or open a PR in the repo.
+If you want to help shape the stack or add ideas, jump into `#build-guild` 
