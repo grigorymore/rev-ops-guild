@@ -6,3 +6,5 @@ This folder describes the operational infrastructure for the RevOps Guild.
 - Obsidian: knowledge base viewing and editing
 - Slack: communication space
 - Linear: open backlog and task flow
+
+Repository: [grigorymore/rev-ops-guild](https://github.com/grigorymore/rev-ops-guild)
