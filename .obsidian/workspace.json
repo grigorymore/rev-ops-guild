@@ -11,10 +11,14 @@
             "id": "efc34fbacc5f4576",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 — Welcome/welcome.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "welcome"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 — Welcome/welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for welcome"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 — Welcome/welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from welcome"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "00 — Welcome/welcome.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of welcome"
             }
           }
         ]
@@ -156,9 +164,9 @@
   },
   "active": "efc34fbacc5f4576",
   "lastOpenFiles": [
-    "00 — Welcome/welcome.md",
     "00 — Welcome/onboarding.md",
     "00 — Welcome/manifesto.md",
+    "00 — Welcome/welcome.md",
     "00 — Welcome",
     "01 — build-guild/99 — Updates/update-0.001.md",
     "01 — Build-guild/99 — Updates/update-0.001.md",

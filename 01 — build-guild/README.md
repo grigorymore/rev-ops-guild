@@ -11,6 +11,13 @@ Here I gather everyone who wants to develop the community itself with me, not ju
 - **Assistants for conducting peer groups and activities**
 - **Assistants collecting draft digests into the knowledge base**
 
+## Want to participate in community development?
+
+- Book a slot for a short call
+- Send an email → I'll send access to Linear with all projects
+- We'll create a separate branch in our repository
+- And together we'll build community interaction
+
 ## Infrastructure
 
 - Git: source of truth for community OS
